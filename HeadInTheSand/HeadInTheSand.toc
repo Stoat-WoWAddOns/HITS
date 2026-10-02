@@ -1,0 +1,9 @@
+## Interface: 120100, 16000, 16001
+## Title: Head In The Sand
+## Notes: Hide unwanted chat with global script filters and a per-channel word list.
+## Author: Andrew
+## Version: 1.0.1
+## SavedVariables: HITS_DB
+
+HeadInTheSand.lua
+HeadInTheSand_UI.lua
